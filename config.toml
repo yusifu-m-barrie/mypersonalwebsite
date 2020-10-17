@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://mypersonalwebsite.com"
+baseURL = "https://usifumbarrie.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "ayon"
